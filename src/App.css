@@ -1,0 +1,18 @@
+.menu-button {
+    background-color: bisque;
+    font-size: 20px;
+    font-family: Oxygen;
+    padding: 5px;
+    margin: 3px;
+    border: 1px solid brown;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.authorization-zone {
+    margin: 30px;
+}
